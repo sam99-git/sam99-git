@@ -1,7 +1,7 @@
 # Sameer Umadi
 
 # 💫 About Me:
-🚀 DevOps Engineer with 5+ years of experience automating cloud infrastructure across AWS, Azure, and GCP.<br>🔧 Skilled in CI/CD, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions.<br>📦 Passionate about containerization, cloud-native solutions, and Infrastructure as Code.<br>🛡️ Building secure, scalable pipelines with DevSecOps best practices.<br>📈 Always learning, sharing, and contributing to open-source and tech communities.<br>🌐 Currently exploring AI-powered automation and multi-cloud compliance tooling.
+🚀 DevOps Engineer with 4+ years of experience automating cloud infrastructure across AWS, Azure, and GCP.<br>🔧 Skilled in CI/CD, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions.<br>📦 Passionate about containerization, cloud-native solutions, and Infrastructure as Code.<br>🛡️ Building secure, scalable pipelines with DevSecOps best practices.<br>📈 Always learning, sharing, and contributing to open-source and tech communities.<br>🌐 Currently exploring AI-powered automation and multi-cloud compliance tooling.
 
 
 ## 🌐 Socials:
